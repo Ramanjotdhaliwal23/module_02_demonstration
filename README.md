@@ -4,5 +4,5 @@
 - Introduction to phthon 
 - Documentation
 - Variables
-- printing
+- /printing
 
