@@ -1,6 +1,6 @@
 """
 Description: Created assignment 2
-Author: Amish
+Author: Raman
 Date: September 15, 2023
 Usage: For creating sdf assignment 2
 """
@@ -8,7 +8,7 @@ Usage: For creating sdf assignment 2
 # Simple data types
 
 # Declare a variable to store a name and initialize it to your first name.
-first_name = "Amish"
+first_name = "Raman"
 
 print(f"value: {first_name} type: {type(first_name).name}")
 
