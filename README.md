@@ -1,8 +1,10 @@
-# Module_02 Demonstration
-
+ Assignment02
 ## Description
-- Introduction to phthon 
-- Documentation
-- Variables
-- /printing
+- Simple Data Types
+- Calculation
+- Lists and Tuples
+- Dictionaries and Sets
+- Documentation and PEP 8 Standards
 
+## Author
+raman
